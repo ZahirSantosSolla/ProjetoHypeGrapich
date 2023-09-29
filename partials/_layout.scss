@@ -263,14 +263,33 @@
     gap: 24px;
     color: $white-normal;
 }
+.footer img{
+    width: 168px;
+    height: 168px;
+}
 
 .footer-icons{
     display: flex;
     gap: 8px;
-    color: $white-normal;
+    
 }
 
 
+.origem{
+    display: flex;
+    gap: 8px; 
+    
+}
+
+.origem button{
+    color: $red-light;
+    background-color: #000;
+    padding: 4px 4px;
+    border-radius: 4px;
+    border: 0;
+    cursor: default;
+
+}
 
 // zap
 
